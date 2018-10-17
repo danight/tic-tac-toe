@@ -1,2 +1,2 @@
 # tic-tac-toe
-consolidate the knowlege with React tutorial
+Consolidate the knowlege with React tutorial
